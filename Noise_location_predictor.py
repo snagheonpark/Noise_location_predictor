@@ -1,6 +1,7 @@
 import numpy as np
 from numpy.linalg import inv
 import matplotlib.pyplot as plt
+
 # 1. 단계수(또는 기간)의 정의
 n_iters = 50
 
